@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019!<br>📚 I'm currently learning  Python, C# and working on everything in my skill set.<br>🏫 Currently studying Software Engineering.</p>
+<p align="left">✨ Creating bugs since 2019!<br>📚 I'm currently learning Go and working on everything in my skill set.<br>🏫 Currently studying Software Engineering.</p>
 
 ###
 
