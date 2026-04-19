@@ -3,7 +3,7 @@
 
 # Building<br>for the<br>backend.
 
-Third-year **Software Engineering** student driven by clean code, hard problems, and building things that work well. I enjoy working across different tech stacks and thrive both independently and in collaborative environments. Always working on something. Open to freelance work, collaborations, and job opportunities.
+Third-year Software Engineering student driven by clean code, hard problems, and building things that work well. I enjoy working across different tech stacks and thrive both independently and in collaborative environments. Always working on something. Open to freelance work, collaborations, and job opportunities.
 
 ---
 
